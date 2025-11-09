@@ -25,7 +25,7 @@
     ],
     "custom/os_button": {
         "format": "",
-        "on-click": "wofi --show drun",
+        "on-click": "waystart",
         "tooltip": false
     },
     "cpu": {
