@@ -1,6 +1,8 @@
 # The Indigo Enterprise Linux (Server) Waybar Configuration
 > [!WARNING]
 > I've decided that I'm going to start compiling XLibre for RHEL 10 so this is EOL
+
+
 Waybar config to make Windows Server 2022 refugees feel at home. Works well with [labwc](https://github.com/labwc/labwc).
 
 ![2024-07-21T15:52:00,421480788+07:00](https://github.com/user-attachments/assets/60a498d3-6989-48e9-b74d-d07242fee288)
